@@ -1,3 +1,0 @@
-/Users/macbookfolder16/Documents/GitHub/ex3-os/cmake-build-debug/CMakeFiles/ex3-os.dir
-/Users/macbookfolder16/Documents/GitHub/ex3-os/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/macbookfolder16/Documents/GitHub/ex3-os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
