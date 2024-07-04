@@ -1,0 +1,7 @@
+# ninja log v5
+1	168	1720086118788321661	CMakeFiles/ex3-os.dir/Barrier/Barrier.cpp.o	6e8fed681d28a89f
+0	243	1720086521286336088	CMakeFiles/ex3-os.dir/Atomic/atomicdemo_multivar.cpp.o	487e12f1f4931740
+0	170	1720086118790757555	CMakeFiles/ex3-os.dir/Atomic/atomicdemo.cpp.o	e170f38d2e82dac9
+244	285	1720086521327647214	ex3-os	6423a4b74151aaf1
+1	138	1720086982204578573	CMakeFiles/ex3-os.dir/Atomic/atomicdemo.cpp.o	e170f38d2e82dac9
+140	183	1720086982249079337	ex3-os	7ed1125059454749
